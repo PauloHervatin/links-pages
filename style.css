@@ -3,11 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-/*border-radius: 112px;
-border: 2px solid var(--stroke-color-light-mode, rgba(0, 0, 0, 0.50));
-background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 
-var(--stroke-color-dark-mode, rgba(255, 255, 255, 0.50))*/
 :root{
     --text-color: white;
     --bg-url: url(./assets/bg-mobile.jpg);
