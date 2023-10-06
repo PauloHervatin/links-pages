@@ -1,10 +1,6 @@
 <h1 align="center"> Links-page </h1>
 
 
-<p align="center" >
-  <img alt="projeto DevLinks" src=".github/preview1.png" width="100%" style="border-radius:10%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
